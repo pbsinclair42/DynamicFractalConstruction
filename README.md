@@ -1,6 +1,6 @@
 ## Dynamic Fractal Construction
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/DisplayImage.png)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/DisplayImage.png)
 
 ### Contents:
 
@@ -20,23 +20,23 @@ Fractals included are:
 
 1) The Koch Curve
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/1.PNG)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/1.PNG)
 
 2) The Dragon Curve
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/2.PNG)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/2.PNG)
 
 3) A cross
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/5.PNG)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/5.PNG)
 
 4) A branch
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/4.PNG)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/4.PNG)
 
 5) The Sierpinski Gasket.  
 
-![alt tag](https://raw.githubusercontent.com/BobSmithIV/DynamicFractalConstruction/master/Screenshots/3.PNG)
+![alt tag](https://raw.githubusercontent.com/pbsinclair42/DynamicFractalConstruction/master/Screenshots/3.PNG)
 
 
 ### 2. Instructions for use
